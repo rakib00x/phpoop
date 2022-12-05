@@ -1,6 +1,6 @@
 <?php
 
-//front controller
+//front controller pull
 //General settings
 ini_set('display_error', 1);
 error_reporting(E_ALL);
